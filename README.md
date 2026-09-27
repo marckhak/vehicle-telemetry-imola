@@ -242,7 +242,7 @@ The `data/real/` directory is reserved for private or proprietary telemetry. Rea
 **Marco Francavilla**  
 Computer Engineering Student — University of Bologna
 
-- GitHub: add your profile link after creating the repository
+- GitHub: https://github.com/marckhak
 - Focus: software engineering, data analysis, automotive technology and vehicle dynamics
 
 ## License
