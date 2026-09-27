@@ -2,7 +2,7 @@
 
 > A Python desktop application for automotive telemetry simulation, data analysis and simplified vehicle-dynamics exploration, focused on the Imola Circuit.
 
-[![Tests](https://github.com/MarcoFrancavilla/vehicle-telemetry-imola/actions/workflows/tests.yml/badge.svg)](https://github.com/MarcoFrancavilla/vehicle-telemetry-imola/actions/workflows/tests.yml)
+[![Tests](https://github.com/YOUR_GITHUB_USERNAME/vehicle-telemetry-imola/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/vehicle-telemetry-imola/actions/workflows/tests.yml)
 [![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -187,7 +187,7 @@ Calculated channels are appended by `src/dynamics.py`.
 ### Installation
 
 ```bash
-git clone https://github.com/MarcoFrancavilla/vehicle-telemetry-imola.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/vehicle-telemetry-imola.git
 cd vehicle-telemetry-imola
 python3 -m venv .venv
 source .venv/bin/activate
@@ -242,7 +242,7 @@ The `data/real/` directory is reserved for private or proprietary telemetry. Rea
 **Marco Francavilla**  
 Computer Engineering Student — University of Bologna
 
-- GitHub: [MarcoFrancavilla](https://github.com/MarcoFrancavilla)
+- GitHub: add your profile link after creating the repository
 - Focus: software engineering, data analysis, automotive technology and vehicle dynamics
 
 ## License
